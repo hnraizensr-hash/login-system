@@ -2,13 +2,15 @@
   "users": [
     {
       "username": "admin",
-      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
-      "hwid": "PUT_HWID_HERE"
+      "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "hwid": "",
+      "expiry": "2026-01-30"
     },
     {
       "username": "test",
-      "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
-      "hwid": ""
+      "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "hwid": "",
+      "expiry": "2025-12-31"
     }
   ]
 }
