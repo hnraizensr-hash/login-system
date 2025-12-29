@@ -2,9 +2,9 @@
   "users": [
     {
       "username": "admin",
-      "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "password": "6493cbc6978c8c1062ee8ab66027c8f41f394fdc57bd6340ba91efec07e515bc",
       "hwid": "",
-      "expiry": "2026-01-30"
+      "expiry": "2025-12-30"
     },
     {
       "username": "test",
